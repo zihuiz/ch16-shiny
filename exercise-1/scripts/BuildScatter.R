@@ -1,6 +1,6 @@
 # Function to build a scatterplot
 
-# Write your function to parameterize the following variables:
+# Write a function that returns a scatterplot, parameterizing the following variables:
 #   - Data to use
 #   - Variable for the x axis
 #   - Variable for the y axis
